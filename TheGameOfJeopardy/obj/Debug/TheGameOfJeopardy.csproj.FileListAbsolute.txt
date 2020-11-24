@@ -1,0 +1,13 @@
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CIS_151_H101_CSharp PROGRAMMING II\Projects\TheGameOfJeopardy\TheGameOfJeopardy\bin\Debug\TheGameOfJeopardy.exe.config
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CIS_151_H101_CSharp PROGRAMMING II\Projects\TheGameOfJeopardy\TheGameOfJeopardy\bin\Debug\TheGameOfJeopardy.exe
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CIS_151_H101_CSharp PROGRAMMING II\Projects\TheGameOfJeopardy\TheGameOfJeopardy\bin\Debug\TheGameOfJeopardy.pdb
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CIS_151_H101_CSharp PROGRAMMING II\Projects\TheGameOfJeopardy\TheGameOfJeopardy\obj\Debug\TheGameOfJeopardy.csprojAssemblyReference.cache
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CIS_151_H101_CSharp PROGRAMMING II\Projects\TheGameOfJeopardy\TheGameOfJeopardy\obj\Debug\TheGameOfJeopardy.GameBoardFr.resources
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CIS_151_H101_CSharp PROGRAMMING II\Projects\TheGameOfJeopardy\TheGameOfJeopardy\obj\Debug\TheGameOfJeopardy.Properties.Resources.resources
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CIS_151_H101_CSharp PROGRAMMING II\Projects\TheGameOfJeopardy\TheGameOfJeopardy\obj\Debug\TheGameOfJeopardy.SplashScreenFr.resources
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CIS_151_H101_CSharp PROGRAMMING II\Projects\TheGameOfJeopardy\TheGameOfJeopardy\obj\Debug\TheGameOfJeopardy.csproj.GenerateResource.cache
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CIS_151_H101_CSharp PROGRAMMING II\Projects\TheGameOfJeopardy\TheGameOfJeopardy\obj\Debug\TheGameOfJeopardy.exe
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CIS_151_H101_CSharp PROGRAMMING II\Projects\TheGameOfJeopardy\TheGameOfJeopardy\obj\Debug\TheGameOfJeopardy.pdb
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CIS_151_H101_CSharp PROGRAMMING II\Projects\TheGameOfJeopardy\TheGameOfJeopardy\obj\Debug\TheGameOfJeopardy.optionFr.resources
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CIS_151_H101_CSharp PROGRAMMING II\Projects\TheGameOfJeopardy\TheGameOfJeopardy\obj\Debug\TheGameOfJeopardy.AQFr.resources
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CIS_151_H101_CSharp PROGRAMMING II\Projects\TheGameOfJeopardy\TheGameOfJeopardy\obj\Debug\TheGameOfJeopardy.ResultFr.resources
